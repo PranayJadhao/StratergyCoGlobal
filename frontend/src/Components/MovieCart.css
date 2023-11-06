@@ -1,0 +1,9 @@
+#image{
+    background-color: rgba(0, 0, 255, 0.233);
+    padding: 50px;
+    margin-top: 10px;
+  }
+
+  .details{
+    background-color: rgba(128, 128, 128, 0.384);
+  }
