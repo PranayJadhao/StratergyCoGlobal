@@ -13,7 +13,7 @@ function App() {
     async function Fetchdata() {
       try {
         let res = await fetch(
-          `http://www.omdbapi.com/?t=${searchQuery || "batman"}&apikey=bbe6805d`
+          `https://www.omdbapi.com/?t=${searchQuery || "batman"}&apikey=bbe6805d`
         );
         var data = await res.json();
         console.log(data);
