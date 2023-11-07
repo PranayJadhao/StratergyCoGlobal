@@ -1,5 +1,7 @@
 # Stratergy Co Global Company's Assignment
 
+##Deployed Link:- https://stratergy-co-global-b38e.vercel.app/
+
 Initially it shows the by default movie i.e "Batman"
 
 
