@@ -5,5 +5,26 @@
   }
 
   .details{
-    background-color: rgba(128, 128, 128, 0.384);
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: rgba(128, 128, 128, 0.201);
+  }
+
+  #outerBox{
+    background-color: rgba(245, 245, 220, 0.527);
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 10px;
+  }
+
+  #moreButton{
+    color: blue;
+    background-color: azure;
+    border: 1px solid blue;
+    margin: 2%;
+    
   }

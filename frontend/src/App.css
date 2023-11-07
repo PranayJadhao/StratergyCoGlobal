@@ -1,8 +1,28 @@
 .App {
+  width: 80%;
   text-align: center;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
   background-color: bisque;
 }
 
+#box{
+ 
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 50px;
+  min-height: fit-content;
+
+}
+
+#searchButton{
+  color: red;
+  background-color: azure;
+  border: 1px solid red;
+  margin: 1%;
+  
+}
 
 
 
